@@ -1,0 +1,98 @@
+{"instruction": "¿Qué es la inteligencia artificial?", "input": "", "output": "La inteligencia artificial es la rama de la informática que crea programas capaces de aprender de los datos y resolver tareas que normalmente requieren inteligencia humana."}
+{"instruction": "Explícame la inteligencia artificial como si tuviera diez años.", "input": "", "output": "La inteligencia artificial es la rama de la informática que crea programas capaces de aprender de los datos y resolver tareas que normalmente requieren inteligencia humana. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es un modelo de lenguaje.", "input": "", "output": "Un modelo de lenguaje es un programa que aprende a predecir la siguiente palabra de un texto. Repitiendo esa predicción puede escribir frases y párrafos completos."}
+{"instruction": "Explícame un modelo de lenguaje como si tuviera diez años.", "input": "", "output": "Un modelo de lenguaje es un programa que aprende a predecir la siguiente palabra de un texto. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define un token en pocas palabras.", "input": "", "output": "Un token es un trozo de texto, como una palabra, una parte de una palabra o un signo de puntuación. El modelo convierte cada token en un número antes de procesarlo."}
+{"instruction": "Explícame un token como si tuviera diez años.", "input": "", "output": "Un token es un trozo de texto, como una palabra, una parte de una palabra o un signo de puntuación. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es la atención?", "input": "", "output": "La atención es el mecanismo que permite al modelo mirar las palabras anteriores y decidir cuáles son importantes para entender el contexto."}
+{"instruction": "Explícame la atención como si tuviera diez años.", "input": "", "output": "La atención es el mecanismo que permite al modelo mirar las palabras anteriores y decidir cuáles son importantes para entender el contexto. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es un embedding.", "input": "", "output": "Un embedding es una lista de números que representa a un token. Las palabras con significados parecidos tienen embeddings parecidos."}
+{"instruction": "Explícame un embedding como si tuviera diez años.", "input": "", "output": "Un embedding es una lista de números que representa a un token. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define el sobreajuste en pocas palabras.", "input": "", "output": "El sobreajuste ocurre cuando un modelo memoriza los datos de entrenamiento en lugar de aprender reglas generales, y por eso funciona mal con datos nuevos."}
+{"instruction": "Explícame el sobreajuste como si tuviera diez años.", "input": "", "output": "El sobreajuste ocurre cuando un modelo memoriza los datos de entrenamiento en lugar de aprender reglas generales, y por eso funciona mal con datos nuevos. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es la fotosíntesis?", "input": "", "output": "La fotosíntesis es el proceso por el que las plantas usan la luz del sol, el agua y el dióxido de carbono para fabricar glucosa y liberar oxígeno."}
+{"instruction": "Explícame la fotosíntesis como si tuviera diez años.", "input": "", "output": "La fotosíntesis es el proceso por el que las plantas usan la luz del sol, el agua y el dióxido de carbono para fabricar glucosa y liberar oxígeno. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es la célula.", "input": "", "output": "La célula es la unidad básica de la vida. Todos los seres vivos están formados por una o más células."}
+{"instruction": "Explícame la célula como si tuviera diez años.", "input": "", "output": "La célula es la unidad básica de la vida. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define el ADN en pocas palabras.", "input": "", "output": "El ADN es la molécula que contiene las instrucciones genéticas de los seres vivos. Tiene forma de doble hélice."}
+{"instruction": "Explícame el ADN como si tuviera diez años.", "input": "", "output": "El ADN es la molécula que contiene las instrucciones genéticas de los seres vivos. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es la velocidad?", "input": "", "output": "La velocidad es la distancia recorrida por unidad de tiempo. Se calcula dividiendo la distancia entre el tiempo, y se mide en metros por segundo."}
+{"instruction": "Explícame la velocidad como si tuviera diez años.", "input": "", "output": "La velocidad es la distancia recorrida por unidad de tiempo. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es la aceleración.", "input": "", "output": "La aceleración es el cambio de la velocidad por unidad de tiempo. Se mide en metros por segundo al cuadrado."}
+{"instruction": "Explícame la aceleración como si tuviera diez años.", "input": "", "output": "La aceleración es el cambio de la velocidad por unidad de tiempo. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define la fuerza en pocas palabras.", "input": "", "output": "La fuerza es una interacción que puede cambiar el movimiento de un cuerpo. Según la segunda ley de Newton, la fuerza es igual a la masa por la aceleración."}
+{"instruction": "Explícame la fuerza como si tuviera diez años.", "input": "", "output": "La fuerza es una interacción que puede cambiar el movimiento de un cuerpo. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es la energía cinética?", "input": "", "output": "La energía cinética es la energía que tiene un cuerpo por estar en movimiento. Se calcula como un medio de la masa por la velocidad al cuadrado."}
+{"instruction": "Explícame la energía cinética como si tuviera diez años.", "input": "", "output": "La energía cinética es la energía que tiene un cuerpo por estar en movimiento. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es la gravedad.", "input": "", "output": "La gravedad es la fuerza con la que los cuerpos con masa se atraen entre sí. En la Tierra produce una aceleración de unos 9,8 metros por segundo al cuadrado."}
+{"instruction": "Explícame la gravedad como si tuviera diez años.", "input": "", "output": "La gravedad es la fuerza con la que los cuerpos con masa se atraen entre sí. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define un átomo en pocas palabras.", "input": "", "output": "Un átomo es la unidad más pequeña de un elemento químico. Está formado por un núcleo con protones y neutrones, rodeado de electrones."}
+{"instruction": "Explícame un átomo como si tuviera diez años.", "input": "", "output": "Un átomo es la unidad más pequeña de un elemento químico. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es una molécula?", "input": "", "output": "Una molécula es un grupo de átomos unidos por enlaces químicos. Por ejemplo, el agua está formada por dos átomos de hidrógeno y uno de oxígeno."}
+{"instruction": "Explícame una molécula como si tuviera diez años.", "input": "", "output": "Una molécula es un grupo de átomos unidos por enlaces químicos. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es el pH.", "input": "", "output": "El pH mide la acidez de una disolución. Va de 0 a 14: menos de 7 es ácido, 7 es neutro y más de 7 es básico."}
+{"instruction": "Explícame el pH como si tuviera diez años.", "input": "", "output": "El pH mide la acidez de una disolución. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define un mol en pocas palabras.", "input": "", "output": "Un mol es la cantidad de sustancia que contiene 6,022 por 10 elevado a 23 partículas. Este número se llama número de Avogadro."}
+{"instruction": "Explícame un mol como si tuviera diez años.", "input": "", "output": "Un mol es la cantidad de sustancia que contiene 6,022 por 10 elevado a 23 partículas. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es una ecuación?", "input": "", "output": "Una ecuación es una igualdad entre dos expresiones que contiene una o más incógnitas. Resolverla es encontrar los valores que hacen cierta la igualdad."}
+{"instruction": "Explícame una ecuación como si tuviera diez años.", "input": "", "output": "Una ecuación es una igualdad entre dos expresiones que contiene una o más incógnitas. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es una derivada.", "input": "", "output": "La derivada mide cómo cambia una función cuando cambia su variable. Geométricamente es la pendiente de la recta tangente a la curva."}
+{"instruction": "Explícame una derivada como si tuviera diez años.", "input": "", "output": "La derivada mide cómo cambia una función cuando cambia su variable. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define una integral en pocas palabras.", "input": "", "output": "La integral es la operación inversa de la derivada. La integral definida calcula el área bajo una curva entre dos puntos."}
+{"instruction": "Explícame una integral como si tuviera diez años.", "input": "", "output": "La integral es la operación inversa de la derivada. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es una función?", "input": "", "output": "Una función es una regla que asigna a cada valor de entrada exactamente un valor de salida."}
+{"instruction": "Explícame una función como si tuviera diez años.", "input": "", "output": "Una función es una regla que asigna a cada valor de entrada exactamente un valor de salida. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es el teorema de Pitágoras.", "input": "", "output": "El teorema de Pitágoras dice que en un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos."}
+{"instruction": "Explícame el teorema de Pitágoras como si tuviera diez años.", "input": "", "output": "El teorema de Pitágoras dice que en un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Define la democracia en pocas palabras.", "input": "", "output": "La democracia es una forma de gobierno en la que el poder reside en el pueblo, que elige a sus representantes mediante el voto."}
+{"instruction": "Explícame la democracia como si tuviera diez años.", "input": "", "output": "La democracia es una forma de gobierno en la que el poder reside en el pueblo, que elige a sus representantes mediante el voto. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Qué es un resumen?", "input": "", "output": "Un resumen es una versión breve de un texto que conserva solo las ideas principales, escrita con tus propias palabras."}
+{"instruction": "Explícame un resumen como si tuviera diez años.", "input": "", "output": "Un resumen es una versión breve de un texto que conserva solo las ideas principales, escrita con tus propias palabras. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "Explica qué es un mapa mental.", "input": "", "output": "Un mapa mental es un diagrama que organiza ideas alrededor de un concepto central, con ramas para los temas y subtemas."}
+{"instruction": "Explícame un mapa mental como si tuviera diez años.", "input": "", "output": "Un mapa mental es un diagrama que organiza ideas alrededor de un concepto central, con ramas para los temas y subtemas. Es una idea sencilla si la piensas con un ejemplo de la vida diaria."}
+{"instruction": "¿Cuánto es 2 más 3?", "input": "", "output": "2 más 3 es 5."}
+{"instruction": "¿Cuánto es 2 por 3?", "input": "", "output": "2 por 3 es 6."}
+{"instruction": "¿Cuánto es 7 más 5?", "input": "", "output": "7 más 5 es 12."}
+{"instruction": "¿Cuánto es 7 por 5?", "input": "", "output": "7 por 5 es 35."}
+{"instruction": "¿Cuánto es 12 más 8?", "input": "", "output": "12 más 8 es 20."}
+{"instruction": "¿Cuánto es 12 por 8?", "input": "", "output": "12 por 8 es 96."}
+{"instruction": "¿Cuánto es 9 más 6?", "input": "", "output": "9 más 6 es 15."}
+{"instruction": "¿Cuánto es 9 por 6?", "input": "", "output": "9 por 6 es 54."}
+{"instruction": "¿Cuánto es 15 más 27?", "input": "", "output": "15 más 27 es 42."}
+{"instruction": "¿Cuánto es 15 por 27?", "input": "", "output": "15 por 27 es 405."}
+{"instruction": "¿Cuánto es 4 más 11?", "input": "", "output": "4 más 11 es 15."}
+{"instruction": "¿Cuánto es 4 por 11?", "input": "", "output": "4 por 11 es 44."}
+{"instruction": "¿Cuánto es 30 más 12?", "input": "", "output": "30 más 12 es 42."}
+{"instruction": "¿Cuánto es 30 por 12?", "input": "", "output": "30 por 12 es 360."}
+{"instruction": "¿Cuánto es 6 más 7?", "input": "", "output": "6 más 7 es 13."}
+{"instruction": "¿Cuánto es 6 por 7?", "input": "", "output": "6 por 7 es 42."}
+{"instruction": "¿Cuánto es 8 más 9?", "input": "", "output": "8 más 9 es 17."}
+{"instruction": "¿Cuánto es 8 por 9?", "input": "", "output": "8 por 9 es 72."}
+{"instruction": "¿Cuánto es 13 más 14?", "input": "", "output": "13 más 14 es 27."}
+{"instruction": "¿Cuánto es 13 por 14?", "input": "", "output": "13 por 14 es 182."}
+{"instruction": "Resuelve la ecuación 2x = 10.", "input": "", "output": "Dividimos ambos lados entre 2: x = 10 / 2 = 5."}
+{"instruction": "Resuelve la ecuación 3x = 30.", "input": "", "output": "Dividimos ambos lados entre 3: x = 30 / 3 = 10."}
+{"instruction": "Resuelve la ecuación 4x = 36.", "input": "", "output": "Dividimos ambos lados entre 4: x = 36 / 4 = 9."}
+{"instruction": "Resuelve la ecuación 5x = 100.", "input": "", "output": "Dividimos ambos lados entre 5: x = 100 / 5 = 20."}
+{"instruction": "Un coche recorre 100 metros en 5 segundos. ¿Cuál es su velocidad?", "input": "", "output": "La velocidad es distancia entre tiempo: 100 m / 5 s = 20 m/s."}
+{"instruction": "Calcula la fuerza para acelerar 2 kg a 3 m/s².", "input": "", "output": "Usamos F = m · a: F = 2 kg · 3 m/s² = 6 N."}
+{"instruction": "¿Cuál es la fórmula química del agua?", "input": "", "output": "La fórmula química del agua es H2O: dos átomos de hidrógeno y uno de oxígeno."}
+{"instruction": "¿Cuál es la masa molar del agua?", "input": "", "output": "La masa molar del agua es unos 18 g/mol: 2 · 1 g/mol del hidrógeno más 16 g/mol del oxígeno."}
+{"instruction": "Resume el siguiente texto en una frase.", "input": "La Revolución Francesa comenzó en 1789. El pueblo de Francia se levantó contra la monarquía absoluta y los privilegios de la nobleza. Sus ideales fueron la libertad, la igualdad y la fraternidad.", "output": "La Revolución Francesa (1789) fue un levantamiento del pueblo francés contra la monarquía absoluta y los privilegios de la nobleza, guiado por la libertad, la igualdad y la fraternidad."}
+{"instruction": "¿Cuál es la idea principal del texto?", "input": "La Revolución Francesa comenzó en 1789. El pueblo de Francia se levantó contra la monarquía absoluta y los privilegios de la nobleza. Sus ideales fueron la libertad, la igualdad y la fraternidad.", "output": "La Revolución Francesa (1789) fue un levantamiento del pueblo francés contra la monarquía absoluta y los privilegios de la nobleza, guiado por la libertad, la igualdad y la fraternidad."}
+{"instruction": "Resume el siguiente texto en una frase.", "input": "El ciclo del agua describe cómo el agua se evapora de mares y ríos, se condensa en nubes y vuelve a la tierra como lluvia o nieve.", "output": "El agua se evapora, se condensa en nubes y cae como lluvia o nieve, en un ciclo continuo."}
+{"instruction": "¿Cuál es la idea principal del texto?", "input": "El ciclo del agua describe cómo el agua se evapora de mares y ríos, se condensa en nubes y vuelve a la tierra como lluvia o nieve.", "output": "El agua se evapora, se condensa en nubes y cae como lluvia o nieve, en un ciclo continuo."}
+{"instruction": "Resume el siguiente texto en una frase.", "input": "Los volcanes se forman cuando el magma del interior de la Tierra sale a la superficie a través de grietas en la corteza.", "output": "Los volcanes aparecen cuando el magma sube a la superficie por grietas de la corteza terrestre."}
+{"instruction": "¿Cuál es la idea principal del texto?", "input": "Los volcanes se forman cuando el magma del interior de la Tierra sale a la superficie a través de grietas en la corteza.", "output": "Los volcanes aparecen cuando el magma sube a la superficie por grietas de la corteza terrestre."}
+{"instruction": "Resume el siguiente texto en una frase.", "input": "Las vacunas entrenan al sistema inmunitario para reconocer un microbio sin causar la enfermedad. Así, si el microbio aparece, el cuerpo lo combate rápidamente.", "output": "Las vacunas enseñan al sistema inmunitario a reconocer un microbio para combatirlo rápido si aparece."}
+{"instruction": "¿Cuál es la idea principal del texto?", "input": "Las vacunas entrenan al sistema inmunitario para reconocer un microbio sin causar la enfermedad. Así, si el microbio aparece, el cuerpo lo combate rápidamente.", "output": "Las vacunas enseñan al sistema inmunitario a reconocer un microbio para combatirlo rápido si aparece."}
+{"instruction": "Hola, Jarvis.", "input": "", "output": "Hola. Soy Jarvis, tu asistente de estudio. ¿En qué te ayudo hoy?"}
+{"instruction": "¿Quién eres?", "input": "", "output": "Soy Jarvis, un pequeño modelo de lenguaje construido desde cero y ajustado para seguir instrucciones."}
+{"instruction": "Gracias por tu ayuda.", "input": "", "output": "De nada. Si tienes otra pregunta, aquí estaré."}
+{"instruction": "Dame un consejo para estudiar.", "input": "", "output": "Estudia en bloques cortos con descansos, explica el tema con tus palabras y ponte a prueba con preguntas."}
+{"instruction": "¿Cómo puedo memorizar mejor?", "input": "", "output": "Repasa varias veces espaciando los repasos en el tiempo y ponte a prueba en lugar de solo releer."}
+{"instruction": "Haz una pregunta de examen sobre la fotosíntesis.", "input": "", "output": "¿Qué necesitan las plantas para hacer la fotosíntesis y qué gas liberan?"}
+{"instruction": "Haz una pregunta de examen sobre la célula.", "input": "", "output": "¿Cuál es la unidad básica de la vida y de qué están formados todos los seres vivos?"}
+{"instruction": "Convierte en una lista los pasos del método científico.", "input": "", "output": "1. Observación. 2. Pregunta. 3. Hipótesis. 4. Experimento. 5. Análisis de resultados. 6. Conclusión."}
+{"instruction": "Traduce al inglés: buenos días.", "input": "", "output": "Good morning."}
+{"instruction": "¿Cuál es el planeta más grande del sistema solar?", "input": "", "output": "El planeta más grande del sistema solar es Júpiter."}

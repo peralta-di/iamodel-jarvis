@@ -1,2 +1,13 @@
+# Modelo propio (train.py, finetune.py, chat.py)
 torch>=2.0
+
+# App de estudio (app.py)
+streamlit>=1.65
+anthropic>=1.11
+pypdf>=5.0
+python-docx>=1.1
+python-pptx>=1.0
+sympy>=1.13
+
+# Pruebas
 pytest

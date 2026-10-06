@@ -5,3 +5,4 @@ checkpoints/
 .venv/
 data/quijote.txt
 data/gutenberg_*.txt
+jarvis_datos/

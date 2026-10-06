@@ -74,3 +74,24 @@ def test_model_can_overfit_tiny_batch():
         loss.backward()
         opt.step()
     assert loss.item() < 0.1
+
+
+def test_instruction_collate_masks_prompt_and_padding():
+    from jarvis.instruct import IGNORE_INDEX, make_collate_fn
+    collate = make_collate_fn(pad_id=0, max_length=32)
+    x, y = collate([([1, 2, 3], [4, 5, 9]), ([1, 2], [6, 9])])
+    assert x.shape == y.shape == (2, 5)
+    # primer ejemplo: solo se aprende la respuesta (4, 5, 9)
+    assert y[0].tolist() == [IGNORE_INDEX, IGNORE_INDEX, 4, 5, 9]
+    # segundo ejemplo: respuesta (6, 9) y luego relleno ignorado
+    assert y[1].tolist() == [IGNORE_INDEX, 6, 9, IGNORE_INDEX, IGNORE_INDEX]
+
+
+def test_instruction_collate_keeps_answer_when_prompt_is_too_long():
+    from jarvis.instruct import IGNORE_INDEX, make_collate_fn
+    collate = make_collate_fn(pad_id=0, max_length=8)
+    x, y = collate([(list(range(100, 120)), [1, 2, 3])])
+    assert x.shape == (1, 8)
+    assert x[0].tolist() == [114, 115, 116, 117, 118, 119, 1, 2]  # final de la instrucción
+    assert y[0].tolist()[-3:] == [1, 2, 3]
+    assert (y[0] != IGNORE_INDEX).sum() == 3
